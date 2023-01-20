@@ -20,7 +20,7 @@ names of the different data files used are listed in Section 1.5 (Page 2).
   
   <li><strong>Sections 1.6.1 and 1.6.2 (Pages 8-10):</strong> The states with the top 10 worst average median AQIs and the top 10 worst average max AQIs were calculated as shown on page 9. Section 1.6.2 on page 10 analyzes why some of these states are on these lists. States such as California, Arizona, and Nevada are in the southwestern part of the United States which is dry due to the topographical differences that prevent moisture from reaching these regions.</li>
   
-  <li><strong>Section 1.6.4 (Pages 11-12):</strong> On page 11, the number of dates with missing AQI information are calculated for each county in California. Each county in California is then mapped to a list of the dates with missing AQI information. Question 4bii on page 12 analyzes key missing dates in common between the counties and also explores why certain counties have the most missing days.</li>
+  <li><strong>Section 1.6.4 (Pages 11-12):</strong> On page 11, the number of dates with missing AQI information is calculated for each county in California. Each county in California is then mapped to a list of the dates with missing AQI information. Question 4bii on page 12 analyzes key missing dates in common between the counties and also explores why certain counties have the most missing days.</li>
   
   <li><strong>Sections 1.7.2 and 1.7.3 (Pages 19-23):</strong> Various visualizations to represent the data are created in Section 1.7.2 on page 19 and shown on pages 20-22. The data used for the visualizations was manipulated prior in section 1.7.1 on page 18. A summary of the findings and visualizations is in section 1.7.3 on page 23.</li>
 </ul>
